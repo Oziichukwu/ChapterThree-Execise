@@ -1,0 +1,53 @@
+- initialize variables
+- input and count the results
+- display pass and failed and bonus to instructor if pass is greater than 8
+
+	initialize pass to zero
+	initialize failure to zero
+	initialize resultCounter to 1
+
+	while resultCounter is less than or equal to 10
+
+	prompt the user for the result inputs 
+
+	input the results 
+
+	if the result is equal to 1  
+
+	then perform the increment of pass
+
+		else perform the increment of failure
+
+	perform the increment of the resultCounter
+
+	display the result of passes and failures 
+
+	if passes is greater than 8 
+
+	display bonus to instructor 
+
+
+		- initialize variables 
+		- input, sum and calculate the average of the grades
+		- display the average of the grades
+
+		initialize the total to zero
+		initialize the gradecounter to zero    
+
+		prompt the user to input the grade or -1 to exit
+		input the grades
+
+		while the grades is equal to -1
+			prompt the user to input the grades or -1 to exit
+			input the grades 
+			add the grades to the total 
+			perform the increment of the gradeCounter
+
+			perform the averge by dividing the total via the gradeCounter
+
+			if the gradeCounter is equal to zero 
+			print no grades inputted   
+
+
+			print the number of grades inputted , the total and the average
+		
